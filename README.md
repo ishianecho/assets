@@ -2,11 +2,12 @@
 
 ## Fonts
 
-[Consolas+NF+LXGWWenKai Mono](https://github.com/ishianecho/assets/releases/tag/fonts-v2.0)
+[Consolas+NF+LXGW](https://github.com/ishianecho/assets/releases/tag/fonts-v2.1)
 
 - Consolas by Microsoft
 - NerdFonts by [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
-- LXGWWenKai (Regular & Medium) by [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+- LXGW WenKai Mono (Regular & Medium) by [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+- LXGW ZhenKai Slab GB (bold companion for WenKai) by [lxgw/LxgwZhenKai](https://github.com/lxgw/LxgwZhenKai)
 
 ## Mouse cursor icons for Windows
 
